@@ -9,7 +9,7 @@ Final Project Web Application
 
 This is a sample responsive webpage application which uses mostly Ala-Too University Information  
 
-> Link: [Sample-Page](https://steins-gate-final.github.io)
+> Link: [Sample-Page]()
 
 ### Below are some screen shots from the web-application;
 
